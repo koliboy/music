@@ -6,7 +6,7 @@
   "data": [
      {
       "id": "1",
-      "title": 'Song 1',
+      "title": "Song 1",
       "artist": "Artist 1",
       "artist_id": [{"id": "1", "name": "Artist 1", "picture": "https://via.placeholder.com/150x150.png?text=Artist+1"}],
       "picture": "https://via.placeholder.com/300x300.png?text=Song+1",

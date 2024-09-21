@@ -1,0 +1,71 @@
+[ 
+    
+{ "FeedName":"Top10 Song","data":[
+    { 
+        "id":"1"
+        "title":"song1",
+        "artist":"Manraj Gurjar",
+        "picture":"/exmaple/album.png",
+        "url":"/exmaple/song1.mp3"
+    },
+    { 
+        "id":"2"
+        "title":"song2",
+        "artist":"Manraj Gurjar ,mansih gurjar",
+        "picture":"/exmaple/album.png",
+        "url":"/exmaple/song2.mp3"
+    }
+]
+   
+},
+
+{
+ "FeedName":"Top10 Artists","data":[
+    { 
+        "id":"1"
+        "name":"Manraj Gurjar",
+        "picture":"/exmaple/album.png",
+    }
+ ]
+},
+
+{
+ "FeedName":"New Releases","data":[
+    { 
+        "id":"1"
+        "title":"song1",
+        "artist":"Manraj Gurjar",
+        "picture":"/exmaple/album.png",
+        "url":"/exmaple/song1.mp3"
+    },
+    { 
+        "id":"2"
+        "title":"song2",
+        "artist":"Manraj Gurjar ,mansih gurjar",
+        "picture":"/exmaple/album.png",
+        "url":"/exmaple/song2.mp3"
+    }
+ ]
+},
+
+{
+ "FeedName":"Top Albums","data":[
+    { 
+        "id":"1"
+        "title":"song1",
+        "artist":"Manraj Gurjar",
+        "picture":"/exmaple/album.png",
+        "url":"/exmaple/song1.mp3"
+    },
+    { 
+        "id":"2"
+        "title":"song2",
+        "artist":"Manraj Gurjar ,mansih gurjar",
+        "picture":"/exmaple/album.png",
+        "url":"/exmaple/song2.mp3"
+    }
+ ]
+},
+
+
+]

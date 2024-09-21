@@ -1,70 +1,149 @@
 [ 
     
-{ "FeedName":"Top100 Song","data":[
-    { 
-        "id":"1"
-        "title":"song1",
-        "artist":"Manraj Gurjar",
-        "picture":"/exmaple/album.png",
-        "url":"/exmaple/song1.mp3"
+{
+  "FeedName": "Top100 Songs",
+  "type": "Tracks",
+  "data": [
+    {
+      "id": "1",
+      "title": "Song 1",
+      "artist": "Artist 1",
+      "artist_id": [{"id": "1", "name": "Artist 1", "picture": "https://via.placeholder.com/150x150.png?text=Artist+1"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+1",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
     },
-    { 
-        "id":"2"
-        "title":"song2",
-        "artist":"Manraj Gurjar ,mansih gurjar",
-        "picture":"/exmaple/album.png",
-        "url":"/exmaple/song2.mp3"
+    {
+      "id": "2",
+      "title": "Song 2",
+      "artist": "Artist 2",
+      "artist_id": [{"id": "2", "name": "Artist 2", "picture": "https://via.placeholder.com/150x150.png?text=Artist+2"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+2",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Song 3",
+      "artist": "Artist 3",
+      "artist_id": [{"id": "3", "name": "Artist 3", "picture": "https://via.placeholder.com/150x150.png?text=Artist+3"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+3",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Song 4",
+      "artist": "Artist 4",
+      "artist_id": [{"id": "4", "name": "Artist 4", "picture": "https://via.placeholder.com/150x150.png?text=Artist+4"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+4",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    {
+      "id": "5",
+      "title": "Song 5",
+      "artist": "Artist 5",
+      "artist_id": [{"id": "5", "name": "Artist 5", "picture": "https://via.placeholder.com/150x150.png?text=Artist+5"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+5",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+    },
+    {
+      "id": "6",
+      "title": "Song 6",
+      "artist": "Artist 6",
+      "artist_id": [{"id": "6", "name": "Artist 6", "picture": "https://via.placeholder.com/150x150.png?text=Artist+6"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+6",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    {
+      "id": "7",
+      "title": "Song 7",
+      "artist": "Artist 7",
+      "artist_id": [{"id": "7", "name": "Artist 7", "picture": "https://via.placeholder.com/150x150.png?text=Artist+7"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+7",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+    },
+    {
+      "id": "8",
+      "title": "Song 8",
+      "artist": "Artist 8",
+      "artist_id": [{"id": "8", "name": "Artist 8", "picture": "https://via.placeholder.com/150x150.png?text=Artist+8"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+8",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    },
+    {
+      "id": "9",
+      "title": "Song 9",
+      "artist": "Artist 9",
+      "artist_id": [{"id": "9", "name": "Artist 9", "picture": "https://via.placeholder.com/150x150.png?text=Artist+9"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+9",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+    },
+    {
+      "id": "10",
+      "title": "Song 10",
+      "artist": "Artist 10",
+      "artist_id": [{"id": "10", "name": "Artist 10", "picture": "https://via.placeholder.com/150x150.png?text=Artist+10"}],
+      "picture": "https://via.placeholder.com/300x300.png?text=Song+10",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
     }
-]
-   
-},
+  ]
+}
+
+,
 
 {
- "FeedName":"Top10 Artists","data":[
-    { 
-        "id":"1"
-        "name":"Manraj Gurjar",
-        "picture":"/exmaple/album.png",
-    }
- ]
-},
-
-{
- "FeedName":"New Releases","data":[
-    { 
-        "id":"1"
-        "title":"song1",
-        "artist":"Manraj Gurjar",
-        "picture":"/exmaple/album.png",
-        "url":"/exmaple/song1.mp3"
+  "FeedName": "Top10 Artists",
+  "type": "Artists",
+  "data": [
+    {
+      "id": "1",
+      "name": "Artist 1",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+1"
     },
-    { 
-        "id":"2"
-        "title":"song2",
-        "artist":"Manraj Gurjar ,mansih gurjar",
-        "picture":"/exmaple/album.png",
-        "url":"/exmaple/song2.mp3"
-    }
- ]
-},
-
-{
- "FeedName":"Top Albums","data":[
-    { 
-        "id":"1"
-        "title":"song1",
-        "artist":"Manraj Gurjar",
-        "picture":"/exmaple/album.png",
-        "url":"/exmaple/song1.mp3"
+    {
+      "id": "2",
+      "name": "Artist 2",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+2"
     },
-    { 
-        "id":"2"
-        "title":"song2",
-        "artist":"Manraj Gurjar ,mansih gurjar",
-        "picture":"/exmaple/album.png",
-        "url":"/exmaple/song2.mp3"
+    {
+      "id": "3",
+      "name": "Artist 3",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+3"
+    },
+    {
+      "id": "4",
+      "name": "Artist 4",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+4"
+    },
+    {
+      "id": "5",
+      "name": "Artist 5",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+5"
+    },
+    {
+      "id": "6",
+      "name": "Artist 6",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+6"
+    },
+    {
+      "id": "7",
+      "name": "Artist 7",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+7"
+    },
+    {
+      "id": "8",
+      "name": "Artist 8",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+8"
+    },
+    {
+      "id": "9",
+      "name": "Artist 9",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+9"
+    },
+    {
+      "id": "10",
+      "name": "Artist 10",
+      "picture": "https://via.placeholder.com/300x300.png?text=Artist+10"
     }
- ]
+  ]
 },
 
 
